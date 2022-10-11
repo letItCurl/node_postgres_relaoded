@@ -24,5 +24,4 @@ app.post('/fortunes', (req, res) => {
   res.send(req.body)
 })
 
-
 module.exports = app
